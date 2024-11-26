@@ -19,10 +19,10 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Inter
 
 ## Files
 
-- [Main-video.mp4](): Main Video File (9:16, 59s) 
-- [prompts/](): Directory Containing all AI prompts used 
-- [source_images/](): Original AI-generated images 
-- [Music/](): Generated background track
+- [Main-video.mp4](https://drive.google.com/file/d/1Y1ELR5PSQDp18hxC0yRqqyi2o1zij9aF/view?usp=sharing): Main Video File (9:16, 59s) 
+- [prompts/](https://docs.google.com/document/d/1dgPPBuhkNUnqQ2EQMmtsti1-rO9NYOnaHDnWuq9_0u4/edit?usp=sharing): Directory Containing all AI prompts used 
+- [source_images/](https://drive.google.com/drive/folders/1Xj0jbnV9rweJAJCa5mbrKBhQgyIUslqY?usp=sharing): Original AI-generated images 
+- [Music/](https://suno.com/song/e476b048-57e7-4138-bfbc-cf5359e7e4cf): Generated background track
 
 ## Prize Submission Checklist 
 - [x] 9 : 16 aspect ratio
